@@ -1,2 +1,3 @@
 # clabot-config
-https://colineberhardt.github.io/cla-bot/
+
+Configuration and state for [CLA bot](https://colineberhardt.github.io/cla-bot/).

@@ -1,3 +1,12 @@
 {
-   "signedContributors": []
+  "signedContributors": [
+    {
+      "name": "mnvr",
+      "id": 24503581,
+      "comment_id": 1345920094,
+      "created_at": "2022-12-12T05:42:03Z",
+      "repoId": 577156537,
+      "pullRequestNo": 1
+    }
+  ]
 }
